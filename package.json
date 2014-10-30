@@ -1,0 +1,25 @@
+{
+  "name": "worldcat-index",
+  "version": "1.0.0",
+  "description": "JSON object transcription of indicies used by OCLC for WorldCat Local and WorldCat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/malantonio/worldcat-index"
+  },
+  "keywords": [
+    "oclc",
+    "worldcat",
+    "worldcatlocal",
+    "academia",
+    "libraries"
+  ],
+  "author": "Adam Malantonio",
+  "bugs": {
+    "url": "https://github.com/malantonio/worldcat-index/issues"
+  },
+  "homepage": "https://github.com/malantonio/worldcat-index"
+}
