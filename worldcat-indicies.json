@@ -75,7 +75,11 @@
         },
         {
           "format": "Cassette",
-          "x4": "Cassette"
+          "tags": {
+            "x0": "Audiobook",
+            "x4": "Cassette"
+            },
+          "children": null
         }
       ]
     },
@@ -181,7 +185,7 @@
       "format": "Interactive Multimedia",
       "tags": {
         "x0": "IntMM",
-        "x4": 
+        "x4": null
       },
       "children": null
     },
