@@ -1,0 +1,421 @@
+{
+  "indicies": [
+    {
+      "format": "Archival Material",
+      "tags": {
+        "x0": "Archv",
+        "x4": null
+      },
+      "children": [
+        {
+          "format": "Downloadable Archival Material",
+          "tags": {
+            "x0": "Archv",
+            "x4": "Digital"
+          },
+          "children": null
+        }
+      ]
+    },
+    {
+      "format": "Article",
+      "tags": {
+        "x0": "ArtChap",
+        "x4": null
+      },
+      "children": [
+        {
+          "format": "Chapter",
+          "tags": {
+            "x0": "ArtChap",
+            "x4": "Chmpt"
+          },
+          "children": null
+        },
+        {
+          "format": "Downloadable article",
+          "tags": {
+            "x0": "ArtChap",
+            "x4": "Digital"
+          },
+          "children": null
+        }
+      ]
+    },
+    {
+      "format": "Audiobook",
+      "tags": {
+        "x0": "Audiobook", 
+        "x4": null
+      },
+      "children": [
+        {
+          "format": "CD",
+          "tags": {
+            "x0": "Audiobook", 
+            "x4": "CD"
+          },
+          "children": null
+        },
+        {
+          "format": "eAudiobook",
+          "tags": {
+            "x0": "Audiobook", 
+            "x4": "Digital"
+          },
+          "children": null
+        },
+        {
+          "format": "LP",
+          "tags": {
+            "x0": "Audiobook",
+            "x4": "LP"
+            },
+          "children": null
+        },
+        {
+          "format": "Cassette",
+          "x4": "Cassette"
+        }
+      ]
+    },
+    {
+      "format": "Book",
+      "tags": {
+        "x0": "Book",
+        "x4": null
+      },
+      "children": [
+        {
+          "format": "Braille",
+          "tags": {
+            "x0": "Book",
+            "x4": "Braille"
+          },
+          "children": null
+        },
+        {
+          "format": "Continually Updated Resource",
+          "tags": {
+            "x0": "Book",
+            "x4": "Continuing"
+          },
+          "children": null
+        },
+        {
+          "format": "eBook",
+          "tags": {
+            "x0": "Book",
+            "x4": "Digital"
+          },
+          "children": null
+        },
+        {
+          "format": "Large Print",
+          "tags": {
+            "x0": "Book",
+            "x4": "LargePrint"
+          },
+          "children": null
+        },
+        {
+          "format": "Microform",
+          "tags": {
+            "x0": "Book",
+            "x4": "mic"
+          },
+          "children": null
+        },
+        {
+          "format": "Thesis/Dissertation",
+          "tags": {
+            "x0": "Book",
+            "x4": "thsis"
+          },
+          "children": null
+        }
+      ]
+    },
+    {
+      "format": "Computer File",
+      "tags": {
+        "x0": "CompFile",
+        "x4": null
+      },
+      "children": null
+    },
+    {
+      "format": "Encyclopedia",
+      "tags": {
+        "x0": "Encyc",
+        "x4": null
+      },
+      "children": null
+    },
+    {
+      "format": "Game",
+      "tags": {
+        "x0": "Game",
+        "x4": null
+      },
+      "children": [
+        {
+          "format": "Video Game",
+          "tags": {
+            "x0": "Game",
+            "x4": "Digital"
+          },
+          "children": null
+        }
+      ]
+    },
+    {
+      "format": "Image",
+      "tags": {
+        "x0": "Image",
+        "x4": "2d"
+      },
+      "children": null
+    },
+    {
+      "format": "Interactive Multimedia",
+      "tags": {
+        "x0": "IntMM",
+        "x4": 
+      },
+      "children": null
+    },
+    {
+      "format": "Internet Resource",
+      "tags": {
+        "x0": "Web",
+        "x4": null
+      },
+      "children": [
+        {
+          "format": "Website",
+          "tags": {
+            "x0": "Web",
+            "x4": "Digital"
+          },
+          "children": null
+        },
+        {
+          "format": "Downloadable Image",
+          "tags": {
+            "x0": "Web",
+            "x4": "dwn2d"
+          },
+          "children": null
+        }
+      ]
+    },
+    {
+      "format": "Journal/Magazine",
+      "tags": {
+        "x0": "Jrnl",
+        "x4": null
+      },
+      "children": [
+        {
+          "format": "eJournal/eMagazine",
+          "tags": {
+            "x0": "Jrnl",
+            "x4": "Digital"
+          },
+          "children": null
+        }
+      ]
+    },
+    {
+      "format": "Kit",
+      "tags": {
+        "x0": "Kit",
+        "x4": null
+      },
+      "children": null
+    },
+    {
+      "format": "Map",
+      "tags": {
+        "x0": "Map",
+        "x4": null
+      },
+      "children": [
+        {
+          "format": "eMap",
+          "tags": {
+            "x0": "Map",
+            "x4": "Digital"
+          },
+          "children": null
+        }
+      ]
+    },
+    {
+      "format": "Music",
+      "tags": {
+        "x0": "Music",
+        "x4": null
+      },
+      "children": [
+        {
+          "format": "CD",
+          "tags": {
+            "x0": "Music",
+            "x4": "CD"
+          },
+          "children": null
+        },
+        {
+          "format": "eMusic",
+          "tags": {
+            "x0": "Music",
+            "x4": "Digital"
+          },
+          "children": null
+        },
+        {
+          "format": "LP",
+          "tags": {
+            "x0": "Music",
+            "x4": "LP"
+          },
+          "children": null
+        },
+        {
+          "format": "Cassette",
+          "tags": {
+            "x0": "Music",
+            "x4": "Cassette"
+          },
+          "children": null
+        }
+      ]
+    },
+    {
+      "format": "Musical Score",
+      "tags": {
+        "x0": "MsScr",
+        "x4": null
+      },
+      "children": [
+        {
+          "format": "Downloadable Music Score",
+          "tags": {
+            "x0": "MsScr",
+            "x4": "Digital"
+          },
+          "children": null
+        }
+      ]
+    },
+    {
+      "format": "Newspaper",
+      "tags": {
+        "x0": "News",
+        "x4": null
+      },
+      "children": [
+        {
+          "format": "eNewspaper",
+          "tags": {
+            "x0": "News",
+            "x4": "Digital"
+          },
+          "children": null
+        }
+      ]
+    },
+    {
+      "format": "Object",
+      "tags": {
+        "x0": "Object",
+        "x4": null
+      },
+      "children": null
+    },
+    {
+      "format": "Sound Recording (Other)",
+      "tags": {
+        "x0": "Snd",
+        "x4": null
+      },
+      "children": null
+    },
+    {
+      "format": "Toy",
+      "tags": {
+        "x0": "Toy",
+        "x4": null
+      },
+      "children": null
+    },
+    {
+      "format": "Video",
+      "tags": {
+        "x0": "Video",
+        "x4": null
+      },
+      "children": [
+        {
+          "format": "Bluray",
+          "tags": {
+            "x0": "Video",
+            "x4": "Bluray"
+          },
+          "children": null
+        },
+        {
+          "format": "eVideo",
+          "tags": {
+            "x0": "Video",
+            "x4": "Digital"
+          },
+          "children": null
+        },
+        {
+          "format": "DVD",
+          "tags": {
+            "x0": "Video",
+            "x4": "DVD"
+          },
+          "children": null
+        },
+        {
+          "format": "Film",
+          "tags": {
+            "x0": "Video",
+            "x4": "Film"
+          },
+          "children": null
+        },
+        {
+          "format": "VHS",
+          "tags": {
+            "x0": "Video",
+            "x4": "VHS"
+          },
+          "children": null
+        }
+      ]
+    },
+    {
+      "format": "Visual material",
+      "tags": {
+        "x0": "Vis",
+        "x4": null
+      },
+      "children": [
+        {
+          "format": "Downloadable Visual Material",
+          "tags": {
+            "x0": "Vis",
+            "x4": "Digital"
+          },
+          "children": null
+        }
+      ]
+    }
+  ]
+}
